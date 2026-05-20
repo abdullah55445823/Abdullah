@@ -39,8 +39,12 @@ export class MockDbService {
   }
 
   private saveJson<T>(filename: string, data: T[]): void {
-    const filePath = path.join(this.dbPath, filename);
-    fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
+    try {
+      const filePath = path.join(this.dbPath, filename);
+      fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
+    } catch {
+      // Read-only filesystem (e.g. Vercel serverless) - silently skip
+    }
   }
 
   getProviders(): Provider[] {
