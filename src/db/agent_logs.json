@@ -1,0 +1,629 @@
+[
+  {
+    "log_id": "log_6d56bbe2509242",
+    "transaction_id": "txn_56d912e47bc1412a894a",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_050",
+      "service_type": "electrician"
+    },
+    "decision": "booking_confirmed",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_3d60ba1e7cb74153",
+      "status": "confirmed"
+    },
+    "timestamp": "2026-05-16T10:02:30.168Z"
+  },
+  {
+    "log_id": "log_1344b695c1014c",
+    "transaction_id": "txn_56d912e47bc1412a894a",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_050",
+      "provider_name": "Fahad Electric Solutions",
+      "booking_id": "bk_3d60ba1e7cb74153",
+      "message": "New booking assigned: electrician at Islamabad"
+    },
+    "timestamp": "2026-05-16T10:02:30.168Z"
+  },
+  {
+    "log_id": "log_b1f8d7ec521a47",
+    "transaction_id": "txn_c29637cbf9b34c0cbfed",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_037",
+      "service_type": "ac_technician"
+    },
+    "decision": "booking_confirmed",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_2a8b3b478ee34499",
+      "status": "confirmed"
+    },
+    "timestamp": "2026-05-16T11:08:54.889Z"
+  },
+  {
+    "log_id": "log_0f2cd517e11c47",
+    "transaction_id": "txn_c29637cbf9b34c0cbfed",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_037",
+      "provider_name": "Parvez AC Tech",
+      "booking_id": "bk_2a8b3b478ee34499",
+      "message": "New booking assigned: ac_technician at G-13"
+    },
+    "timestamp": "2026-05-16T11:08:54.889Z"
+  },
+  {
+    "log_id": "log_478f3e473abc4b",
+    "transaction_id": "txn_5f20b1099eb842bc9ea8",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_042",
+      "service_type": "mechanic"
+    },
+    "decision": "booking_confirmed",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_63b296e72bfe4509",
+      "status": "confirmed"
+    },
+    "timestamp": "2026-05-16T11:10:11.980Z"
+  },
+  {
+    "log_id": "log_87873452043c4f",
+    "transaction_id": "txn_5f20b1099eb842bc9ea8",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_042",
+      "provider_name": "Waqar Auto Repair",
+      "booking_id": "bk_63b296e72bfe4509",
+      "message": "New booking assigned: mechanic at Islamabad"
+    },
+    "timestamp": "2026-05-16T11:10:11.980Z"
+  },
+  {
+    "log_id": "log_58150234d25045",
+    "transaction_id": "txn_ec279b8272e84b79b179",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_004",
+      "service_type": "tutor"
+    },
+    "decision": "booking_confirmed",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_1d82a867f18f4625",
+      "status": "confirmed"
+    },
+    "timestamp": "2026-05-16T11:11:51.525Z"
+  },
+  {
+    "log_id": "log_f56d5bf96ed54d",
+    "transaction_id": "txn_ec279b8272e84b79b179",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_004",
+      "provider_name": "Danish Tutor",
+      "booking_id": "bk_1d82a867f18f4625",
+      "message": "New booking assigned: tutor at F-8"
+    },
+    "timestamp": "2026-05-16T11:11:51.525Z"
+  },
+  {
+    "log_id": "log_3ebc3f9f34dc42",
+    "transaction_id": "txn_e086560d810042248e0a",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_037",
+      "service_type": "ac_technician"
+    },
+    "decision": "booking_confirmed",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_d19246b5b5ba4fbe",
+      "status": "confirmed"
+    },
+    "timestamp": "2026-05-16T11:13:47.687Z"
+  },
+  {
+    "log_id": "log_a24353ff62294f",
+    "transaction_id": "txn_e086560d810042248e0a",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_037",
+      "provider_name": "Parvez AC Tech",
+      "booking_id": "bk_d19246b5b5ba4fbe",
+      "message": "New booking assigned: ac_technician at G-13"
+    },
+    "timestamp": "2026-05-16T11:13:47.687Z"
+  },
+  {
+    "log_id": "log_94ccb41217174d",
+    "transaction_id": "txn_f61d9d7de47d45b794c3",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_037",
+      "service_type": "ac_technician"
+    },
+    "decision": "booking_confirmed",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_5e670c9434f946ba",
+      "status": "confirmed"
+    },
+    "timestamp": "2026-05-16T11:36:43.239Z"
+  },
+  {
+    "log_id": "log_6e8f01b6e28341",
+    "transaction_id": "txn_f61d9d7de47d45b794c3",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_037",
+      "provider_name": "Parvez AC Tech",
+      "booking_id": "bk_5e670c9434f946ba",
+      "message": "New booking assigned: ac_technician at G-13"
+    },
+    "timestamp": "2026-05-16T11:36:43.239Z"
+  },
+  {
+    "log_id": "log_861a5f40c2ac4d",
+    "transaction_id": "txn_685077e2262849c68e7c",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_042",
+      "service_type": "mechanic"
+    },
+    "decision": "booking_confirmed",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_ece1b45aa8d848f6",
+      "status": "confirmed"
+    },
+    "timestamp": "2026-05-16T17:42:52.712Z"
+  },
+  {
+    "log_id": "log_f69cf2312fa249",
+    "transaction_id": "txn_685077e2262849c68e7c",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_042",
+      "provider_name": "Waqar Auto Repair",
+      "booking_id": "bk_ece1b45aa8d848f6",
+      "message": "New booking assigned: mechanic at Islamabad"
+    },
+    "timestamp": "2026-05-16T17:42:52.712Z"
+  },
+  {
+    "log_id": "log_f3f8f2acfb9b4a",
+    "transaction_id": "txn_9d976c69bc73484c8172",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_002",
+      "service_type": "plumber"
+    },
+    "decision": "booking_confirmed",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_d42aeb090f294c91",
+      "status": "confirmed"
+    },
+    "timestamp": "2026-05-17T01:13:51.042Z"
+  },
+  {
+    "log_id": "log_05860a71cc8148",
+    "transaction_id": "txn_9d976c69bc73484c8172",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_002",
+      "provider_name": "Bilal Plumber",
+      "booking_id": "bk_d42aeb090f294c91",
+      "message": "New booking assigned: plumber at Bahria Town"
+    },
+    "timestamp": "2026-05-17T01:13:51.042Z"
+  },
+  {
+    "log_id": "log_ea421d86a6754c",
+    "transaction_id": "txn_4bdb1969810d4e1f88bf",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_037",
+      "service_type": "ac_technician"
+    },
+    "decision": "booking_confirmed",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_4f204a4cfee743cd",
+      "status": "confirmed"
+    },
+    "timestamp": "2026-05-18T17:10:00.834Z"
+  },
+  {
+    "log_id": "log_4a6f5588ea894e",
+    "transaction_id": "txn_4bdb1969810d4e1f88bf",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_037",
+      "provider_name": "Parvez AC Tech",
+      "booking_id": "bk_4f204a4cfee743cd",
+      "message": "New booking assigned: ac_technician at G-13"
+    },
+    "timestamp": "2026-05-18T17:10:00.834Z"
+  },
+  {
+    "log_id": "log_7e32dc296c224c",
+    "transaction_id": "txn_d9369da1faee4e8b85e8",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_037",
+      "service_type": "ac_technician"
+    },
+    "decision": "booking_pending",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_afd264a8d92a491c",
+      "status": "pending"
+    },
+    "timestamp": "2026-05-19T12:24:21.165Z"
+  },
+  {
+    "log_id": "log_395db9afd20d40",
+    "transaction_id": "txn_d9369da1faee4e8b85e8",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_037",
+      "provider_name": "Parvez AC Tech",
+      "booking_id": "bk_afd264a8d92a491c",
+      "message": "New booking assigned: ac_technician at G-13"
+    },
+    "timestamp": "2026-05-19T12:24:21.165Z"
+  },
+  {
+    "log_id": "log_308b5a62afed4e",
+    "transaction_id": "txn_b5791301616e4dc7ba4e",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_045",
+      "service_type": "plumber"
+    },
+    "decision": "booking_pending",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_b9a7936d43864c0b",
+      "status": "pending"
+    },
+    "timestamp": "2026-05-19T12:44:57.736Z"
+  },
+  {
+    "log_id": "log_004cb3eb946742",
+    "transaction_id": "txn_b5791301616e4dc7ba4e",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_045",
+      "provider_name": "Aslam Plumbing",
+      "booking_id": "bk_b9a7936d43864c0b",
+      "message": "New booking assigned: plumber at Islamabad"
+    },
+    "timestamp": "2026-05-19T12:44:57.736Z"
+  },
+  {
+    "log_id": "log_f9e7b148a88549",
+    "transaction_id": "txn_1658b85add5346ea8c17",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_037",
+      "service_type": "ac_technician"
+    },
+    "decision": "booking_pending",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_9566f9cc7dd24ae1",
+      "status": "pending"
+    },
+    "timestamp": "2026-05-19T12:56:56.496Z"
+  },
+  {
+    "log_id": "log_45ce5d63d9c440",
+    "transaction_id": "txn_1658b85add5346ea8c17",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_037",
+      "provider_name": "Parvez AC Tech",
+      "booking_id": "bk_9566f9cc7dd24ae1",
+      "message": "New booking assigned: ac_technician at G-13"
+    },
+    "timestamp": "2026-05-19T12:56:56.496Z"
+  },
+  {
+    "log_id": "log_074219a8548541",
+    "transaction_id": "txn_ea36949829bf4de7a93f",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_037",
+      "service_type": "ac_technician"
+    },
+    "decision": "booking_pending",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_31c571b63c3f451c",
+      "status": "pending"
+    },
+    "timestamp": "2026-05-19T13:17:00.647Z"
+  },
+  {
+    "log_id": "log_ae13a420114742",
+    "transaction_id": "txn_ea36949829bf4de7a93f",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_037",
+      "provider_name": "Parvez AC Tech",
+      "booking_id": "bk_31c571b63c3f451c",
+      "message": "New booking assigned: ac_technician at G-13"
+    },
+    "timestamp": "2026-05-19T13:17:00.647Z"
+  },
+  {
+    "log_id": "log_be2bbfa34d8946",
+    "transaction_id": "txn_34a1df8339c64f0db1ea",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_037",
+      "service_type": "ac_technician"
+    },
+    "decision": "booking_pending",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_a1d83e3f18f04ee9",
+      "status": "pending"
+    },
+    "timestamp": "2026-05-19T13:24:38.521Z"
+  },
+  {
+    "log_id": "log_115e2144418b45",
+    "transaction_id": "txn_34a1df8339c64f0db1ea",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_037",
+      "provider_name": "Parvez AC Tech",
+      "booking_id": "bk_a1d83e3f18f04ee9",
+      "message": "New booking assigned: ac_technician at G-13"
+    },
+    "timestamp": "2026-05-19T13:24:38.521Z"
+  },
+  {
+    "log_id": "log_453ee391577e44",
+    "transaction_id": "txn_6df1e7c9a8374c94ad43",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_037",
+      "service_type": "ac_technician"
+    },
+    "decision": "booking_pending",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_6013f43bd5024794",
+      "status": "pending"
+    },
+    "timestamp": "2026-05-19T13:26:23.055Z"
+  },
+  {
+    "log_id": "log_e7d2d267b06b4e",
+    "transaction_id": "txn_6df1e7c9a8374c94ad43",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_037",
+      "provider_name": "Parvez AC Tech",
+      "booking_id": "bk_6013f43bd5024794",
+      "message": "New booking assigned: ac_technician at G-13"
+    },
+    "timestamp": "2026-05-19T13:26:23.055Z"
+  },
+  {
+    "log_id": "log_fb78ab9eeb334f",
+    "transaction_id": "txn_0606cd0e6e184840a790",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_037",
+      "service_type": "ac_technician"
+    },
+    "decision": "booking_pending",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_dcc39550cc9b441d",
+      "status": "pending"
+    },
+    "timestamp": "2026-05-19T13:26:52.017Z"
+  },
+  {
+    "log_id": "log_bae4450a43d649",
+    "transaction_id": "txn_0606cd0e6e184840a790",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_037",
+      "provider_name": "Parvez AC Tech",
+      "booking_id": "bk_dcc39550cc9b441d",
+      "message": "New booking assigned: ac_technician at G-13"
+    },
+    "timestamp": "2026-05-19T13:26:52.017Z"
+  },
+  {
+    "log_id": "log_f6dca21602d944",
+    "transaction_id": "txn_8db0dd9279234719b38f",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "p_018",
+      "service_type": "tutor"
+    },
+    "decision": "booking_pending",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_48a69a79fa8a49c1",
+      "status": "pending"
+    },
+    "timestamp": "2026-05-19T13:37:11.587Z"
+  },
+  {
+    "log_id": "log_d7e07766bfbe43",
+    "transaction_id": "txn_8db0dd9279234719b38f",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "p_018",
+      "provider_name": "Tariq Education",
+      "booking_id": "bk_48a69a79fa8a49c1",
+      "message": "New booking assigned: tutor at islamabad"
+    },
+    "timestamp": "2026-05-19T13:37:11.587Z"
+  },
+  {
+    "log_id": "log_90b843f71fe545",
+    "transaction_id": "txn_67108a63fc114631aee5",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "user_1770000000022",
+      "service_type": "tutor"
+    },
+    "decision": "booking_pending",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_0858523f6cec444d",
+      "status": "pending"
+    },
+    "timestamp": "2026-05-19T15:10:58.872Z"
+  },
+  {
+    "log_id": "log_160b140a3b374a",
+    "transaction_id": "txn_67108a63fc114631aee5",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "user_1770000000022",
+      "provider_name": "Aaa",
+      "booking_id": "bk_0858523f6cec444d",
+      "message": "New booking assigned: tutor at F-8"
+    },
+    "timestamp": "2026-05-19T15:10:58.872Z"
+  },
+  {
+    "log_id": "log_1d77720ed52e4b",
+    "transaction_id": "txn_fd48b91c9f8d4a85acfc",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {
+      "provider_id": "user_1770000000022",
+      "service_type": "tutor"
+    },
+    "decision": "booking_pending",
+    "action": "create_booking_and_update_db",
+    "output": {
+      "booking_id": "bk_305acf075a5a4783",
+      "status": "pending"
+    },
+    "timestamp": "2026-05-19T17:49:39.162Z"
+  },
+  {
+    "log_id": "log_0cf1e171d3114e",
+    "transaction_id": "txn_fd48b91c9f8d4a85acfc",
+    "agent": "BookingExecutionAgent",
+    "step": 5,
+    "input": {},
+    "decision": "provider_notified",
+    "action": "send_provider_alert",
+    "output": {
+      "provider_id": "user_1770000000022",
+      "provider_name": "Awanish",
+      "booking_id": "bk_305acf075a5a4783",
+      "message": "New booking assigned: tutor at F7"
+    },
+    "timestamp": "2026-05-19T17:49:39.162Z"
+  }
+]

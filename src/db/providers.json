@@ -1,0 +1,775 @@
+[
+  {
+    "provider_id": "user_1770000000021",
+    "name": "ali",
+    "phone": "0300-1111121",
+    "service_categories": [
+      "AC Technician"
+    ],
+    "areas": [
+      "City Area"
+    ],
+    "base_rate": 1500,
+    "rating": 5,
+    "review_count": 0,
+    "last_review_days": 0,
+    "availability_slots": [],
+    "reliability_score": 1,
+    "on_time_score": 1,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000022",
+    "name": "Awanish",
+    "phone": "0300-1111122",
+    "service_categories": [
+      "tutor"
+    ],
+    "areas": [
+      "G-13",
+      "F-8",
+      "Bahria Town",
+      "Islamabad",
+      "Rawalpindi",
+      "Saddar",
+      "Blue Area",
+      "DHA"
+    ],
+    "base_rate": 1500,
+    "rating": 5,
+    "review_count": 0,
+    "last_review_days": 0,
+    "availability_slots": [],
+    "reliability_score": 1,
+    "on_time_score": 1,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000023",
+    "name": "Kamran",
+    "phone": "0300-1111123",
+    "service_categories": [
+      "Electrician"
+    ],
+    "areas": [
+      "F-8",
+      "G-9",
+      "Blue Area"
+    ],
+    "base_rate": 1200,
+    "rating": 4.9,
+    "review_count": 210,
+    "last_review_days": 2,
+    "availability_slots": [],
+    "reliability_score": 0.98,
+    "on_time_score": 0.97,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000024",
+    "name": "Waseem",
+    "phone": "0300-1111124",
+    "service_categories": [
+      "Plumber"
+    ],
+    "areas": [
+      "F-6",
+      "G-6",
+      "Melody"
+    ],
+    "base_rate": 1000,
+    "rating": 4.4,
+    "review_count": 130,
+    "last_review_days": 5,
+    "availability_slots": [],
+    "reliability_score": 0.86,
+    "on_time_score": 0.84,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000025",
+    "name": "Rizwan",
+    "phone": "0300-1111125",
+    "service_categories": [
+      "Plumber"
+    ],
+    "areas": [
+      "Bahria Town",
+      "DHA",
+      "PWD"
+    ],
+    "base_rate": 1000,
+    "rating": 4.2,
+    "review_count": 89,
+    "last_review_days": 12,
+    "availability_slots": [],
+    "reliability_score": 0.8,
+    "on_time_score": 0.75,
+    "cancellation_risk": 1,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000026",
+    "name": "Saad",
+    "phone": "0300-1111126",
+    "service_categories": [
+      "Mechanic",
+      "Towing"
+    ],
+    "areas": [
+      "Kashmir Highway",
+      "G-10",
+      "G-11",
+      "G-13"
+    ],
+    "base_rate": 2500,
+    "rating": 4.7,
+    "review_count": 340,
+    "last_review_days": 1,
+    "availability_slots": [],
+    "reliability_score": 0.96,
+    "on_time_score": 0.9,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000027",
+    "name": "Waqas",
+    "phone": "0300-1111127",
+    "service_categories": [
+      "Cleaner"
+    ],
+    "areas": [
+      "DHA",
+      "Bahria Town"
+    ],
+    "base_rate": 3000,
+    "rating": 4.4,
+    "review_count": 112,
+    "last_review_days": 8,
+    "availability_slots": [],
+    "reliability_score": 0.82,
+    "on_time_score": 0.8,
+    "cancellation_risk": 1,
+    "complexity_supported": [
+      "Basic"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000028",
+    "name": "Zeeshan",
+    "phone": "0300-1111128",
+    "service_categories": [
+      "Carpenter"
+    ],
+    "areas": [
+      "I-8",
+      "I-9",
+      "Faizabad"
+    ],
+    "base_rate": 2000,
+    "rating": 4.5,
+    "review_count": 56,
+    "last_review_days": 4,
+    "availability_slots": [],
+    "reliability_score": 0.88,
+    "on_time_score": 0.85,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000029",
+    "name": "Farhan",
+    "phone": "0300-1111129",
+    "service_categories": [
+      "tutor"
+    ],
+    "areas": [
+      "F-10",
+      "F-11",
+      "E-11"
+    ],
+    "base_rate": 5000,
+    "rating": 5,
+    "review_count": 45,
+    "last_review_days": 3,
+    "availability_slots": [],
+    "reliability_score": 1,
+    "on_time_score": 0.99,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000030",
+    "name": "Javed",
+    "phone": "0300-1111130",
+    "service_categories": [
+      "Painter"
+    ],
+    "areas": [
+      "G-13",
+      "G-14"
+    ],
+    "base_rate": 1200,
+    "rating": 4.3,
+    "review_count": 67,
+    "last_review_days": 10,
+    "availability_slots": [],
+    "reliability_score": 0.85,
+    "on_time_score": 0.82,
+    "cancellation_risk": 1,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000031",
+    "name": "Shahid",
+    "phone": "0300-1111131",
+    "service_categories": [
+      "AC Technician"
+    ],
+    "areas": [
+      "Blue Area",
+      "F-6",
+      "F-7"
+    ],
+    "base_rate": 2000,
+    "rating": 4.6,
+    "review_count": 150,
+    "last_review_days": 1,
+    "availability_slots": [],
+    "reliability_score": 0.9,
+    "on_time_score": 0.88,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000032",
+    "name": "Nawaz",
+    "phone": "0300-1111132",
+    "service_categories": [
+      "Plumber"
+    ],
+    "areas": [
+      "Saddar",
+      "Satellite Town",
+      "Commercial Market"
+    ],
+    "base_rate": 800,
+    "rating": 4.1,
+    "review_count": 230,
+    "last_review_days": 15,
+    "availability_slots": [],
+    "reliability_score": 0.78,
+    "on_time_score": 0.7,
+    "cancellation_risk": 1,
+    "complexity_supported": [
+      "Basic"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000033",
+    "name": "Khalid",
+    "phone": "0300-1111133",
+    "service_categories": [
+      "Electrician"
+    ],
+    "areas": [
+      "Bahria Town",
+      "PWD"
+    ],
+    "base_rate": 1500,
+    "rating": 4.8,
+    "review_count": 105,
+    "last_review_days": 6,
+    "availability_slots": [],
+    "reliability_score": 0.98,
+    "on_time_score": 0.96,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000034",
+    "name": "Shoaib",
+    "phone": "0300-1111134",
+    "service_categories": [
+      "Cleaner"
+    ],
+    "areas": [
+      "F-11",
+      "E-11",
+      "B-17"
+    ],
+    "base_rate": 4000,
+    "rating": 4.5,
+    "review_count": 42,
+    "last_review_days": 2,
+    "availability_slots": [],
+    "reliability_score": 0.89,
+    "on_time_score": 0.85,
+    "cancellation_risk": 1,
+    "complexity_supported": [
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000035",
+    "name": "Asad",
+    "phone": "0300-1111135",
+    "service_categories": [
+      "Mechanic"
+    ],
+    "areas": [
+      "G-7",
+      "G-8",
+      "Abpara"
+    ],
+    "base_rate": 500,
+    "rating": 4.6,
+    "review_count": 180,
+    "last_review_days": 1,
+    "availability_slots": [],
+    "reliability_score": 0.9,
+    "on_time_score": 0.88,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000036",
+    "name": "Muneeb",
+    "phone": "0300-1111136",
+    "service_categories": [
+      "Carpenter"
+    ],
+    "areas": [
+      "Top City",
+      "Mumtaz City"
+    ],
+    "base_rate": 2500,
+    "rating": 4.5,
+    "review_count": 92,
+    "last_review_days": 5,
+    "availability_slots": [],
+    "reliability_score": 0.88,
+    "on_time_score": 0.82,
+    "cancellation_risk": 1,
+    "complexity_supported": [
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000037",
+    "name": "Irfan",
+    "phone": "0300-1111137",
+    "service_categories": [
+      "AC Technician"
+    ],
+    "areas": [
+      "I-10",
+      "I-11",
+      "Pirwadhai"
+    ],
+    "base_rate": 1000,
+    "rating": 4,
+    "review_count": 310,
+    "last_review_days": 20,
+    "availability_slots": [],
+    "reliability_score": 0.75,
+    "on_time_score": 0.7,
+    "cancellation_risk": 1,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000038",
+    "name": "Adnan",
+    "phone": "0300-1111138",
+    "service_categories": [
+      "Towing"
+    ],
+    "areas": [
+      "Islamabad",
+      "Rawalpindi"
+    ],
+    "base_rate": 8000,
+    "rating": 4.7,
+    "review_count": 500,
+    "last_review_days": 1,
+    "availability_slots": [],
+    "reliability_score": 0.94,
+    "on_time_score": 0.91,
+    "cancellation_risk": 1,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000039",
+    "name": "Rashid",
+    "phone": "0300-1111139",
+    "service_categories": [
+      "Cleaner"
+    ],
+    "areas": [
+      "Bani Gala",
+      "Chak Shahzad",
+      "Park Road"
+    ],
+    "base_rate": 1500,
+    "rating": 4.8,
+    "review_count": 75,
+    "last_review_days": 3,
+    "availability_slots": [],
+    "reliability_score": 0.95,
+    "on_time_score": 0.9,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000040",
+    "name": "Haider",
+    "phone": "0300-1111140",
+    "service_categories": [
+      "Electrician"
+    ],
+    "areas": [
+      "G-13",
+      "F-11"
+    ],
+    "base_rate": 1200,
+    "rating": 4.9,
+    "review_count": 120,
+    "last_review_days": 2,
+    "availability_slots": [],
+    "reliability_score": 0.99,
+    "on_time_score": 0.98,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000041",
+    "name": "Yasir",
+    "phone": "0300-1111141",
+    "service_categories": [
+      "Plumber"
+    ],
+    "areas": [
+      "E-11",
+      "F-10"
+    ],
+    "base_rate": 1100,
+    "rating": 4.5,
+    "review_count": 80,
+    "last_review_days": 7,
+    "availability_slots": [],
+    "reliability_score": 0.9,
+    "on_time_score": 0.88,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000042",
+    "name": "Babar",
+    "phone": "0300-1111142",
+    "service_categories": [
+      "Painter"
+    ],
+    "areas": [
+      "DHA",
+      "Bahria Town"
+    ],
+    "base_rate": 1800,
+    "rating": 4.6,
+    "review_count": 95,
+    "last_review_days": 4,
+    "availability_slots": [],
+    "reliability_score": 0.92,
+    "on_time_score": 0.9,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000043",
+    "name": "Faisal",
+    "phone": "0300-1111143",
+    "service_categories": [
+      "Mechanic"
+    ],
+    "areas": [
+      "Blue Area",
+      "F-8"
+    ],
+    "base_rate": 1500,
+    "rating": 4.7,
+    "review_count": 210,
+    "last_review_days": 1,
+    "availability_slots": [],
+    "reliability_score": 0.95,
+    "on_time_score": 0.93,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000044",
+    "name": "Tariq",
+    "phone": "0300-1111144",
+    "service_categories": [
+      "Carpenter"
+    ],
+    "areas": [
+      "G-9",
+      "G-10"
+    ],
+    "base_rate": 2200,
+    "rating": 4.4,
+    "review_count": 65,
+    "last_review_days": 9,
+    "availability_slots": [],
+    "reliability_score": 0.87,
+    "on_time_score": 0.85,
+    "cancellation_risk": 1,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000045",
+    "name": "Jamal",
+    "phone": "0300-1111145",
+    "service_categories": [
+      "tutor"
+    ],
+    "areas": [
+      "Bahria Town",
+      "PWD"
+    ],
+    "base_rate": 4000,
+    "rating": 4.9,
+    "review_count": 30,
+    "last_review_days": 5,
+    "availability_slots": [],
+    "reliability_score": 0.98,
+    "on_time_score": 0.99,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000046",
+    "name": "Saleem",
+    "phone": "0300-1111146",
+    "service_categories": [
+      "Cleaner"
+    ],
+    "areas": [
+      "I-8",
+      "I-9"
+    ],
+    "base_rate": 2500,
+    "rating": 4.3,
+    "review_count": 140,
+    "last_review_days": 3,
+    "availability_slots": [],
+    "reliability_score": 0.85,
+    "on_time_score": 0.8,
+    "cancellation_risk": 1,
+    "complexity_supported": [
+      "Basic"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000047",
+    "name": "Qasim",
+    "phone": "0300-1111147",
+    "service_categories": [
+      "AC Technician"
+    ],
+    "areas": [
+      "DHA",
+      "Saddar"
+    ],
+    "base_rate": 1800,
+    "rating": 4.5,
+    "review_count": 110,
+    "last_review_days": 6,
+    "availability_slots": [],
+    "reliability_score": 0.88,
+    "on_time_score": 0.86,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000048",
+    "name": "Majeed",
+    "phone": "0300-1111148",
+    "service_categories": [
+      "Electrician"
+    ],
+    "areas": [
+      "F-7",
+      "E-11"
+    ],
+    "base_rate": 1300,
+    "rating": 4.7,
+    "review_count": 185,
+    "last_review_days": 2,
+    "availability_slots": [],
+    "reliability_score": 0.94,
+    "on_time_score": 0.92,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000049",
+    "name": "Sajid",
+    "phone": "0300-1111149",
+    "service_categories": [
+      "Plumber"
+    ],
+    "areas": [
+      "G-13",
+      "G-14"
+    ],
+    "base_rate": 1000,
+    "rating": 4.6,
+    "review_count": 150,
+    "last_review_days": 4,
+    "availability_slots": [],
+    "reliability_score": 0.91,
+    "on_time_score": 0.89,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate"
+    ],
+    "is_available": true
+  },
+  {
+    "provider_id": "user_1770000000050",
+    "name": "Kashif",
+    "phone": "0300-1111150",
+    "service_categories": [
+      "Towing"
+    ],
+    "areas": [
+      "Islamabad",
+      "Rawalpindi"
+    ],
+    "base_rate": 5000,
+    "rating": 4.8,
+    "review_count": 220,
+    "last_review_days": 1,
+    "availability_slots": [],
+    "reliability_score": 0.96,
+    "on_time_score": 0.95,
+    "cancellation_risk": 0,
+    "complexity_supported": [
+      "Basic",
+      "Intermediate",
+      "Complex"
+    ],
+    "is_available": true
+  }
+]

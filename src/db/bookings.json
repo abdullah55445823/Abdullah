@@ -1,0 +1,545 @@
+[
+  {
+    "booking_id": "bk_3d60ba1e7cb74153",
+    "transaction_id": "txn_56d912e47bc1412a894a",
+    "user_id": "user_default",
+    "provider_id": "p_050",
+    "service_type": "electrician",
+    "location": "Islamabad",
+    "preferred_time": "morning",
+    "status": "confirmed",
+    "pricing": {
+      "base_rate": 1800,
+      "travel_fee": 50,
+      "urgency_multiplier": 1,
+      "complexity_adjustment": 1,
+      "surge_pricing": 360,
+      "total_pkr": 2210
+    },
+    "created_at": "2026-05-16T10:02:30.168Z",
+    "updated_at": "2026-05-16T10:02:30.168Z"
+  },
+  {
+    "booking_id": "bk_2a8b3b478ee34499",
+    "transaction_id": "txn_c29637cbf9b34c0cbfed",
+    "user_id": "user_default",
+    "provider_id": "p_037",
+    "service_type": "ac_technician",
+    "location": "G-13",
+    "preferred_time": "tomorrow_morning",
+    "status": "confirmed",
+    "pricing": {
+      "base_rate": 1700,
+      "travel_fee": 90,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1.3,
+      "surge_pricing": 340,
+      "total_pkr": 3132
+    },
+    "created_at": "2026-05-16T11:08:54.889Z",
+    "updated_at": "2026-05-16T11:08:54.889Z"
+  },
+  {
+    "booking_id": "bk_63b296e72bfe4509",
+    "transaction_id": "txn_5f20b1099eb842bc9ea8",
+    "user_id": "user_default",
+    "provider_id": "p_042",
+    "service_type": "mechanic",
+    "location": "Islamabad",
+    "preferred_time": "today",
+    "status": "confirmed",
+    "pricing": {
+      "base_rate": 1900,
+      "travel_fee": 125,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1.3,
+      "surge_pricing": 380,
+      "total_pkr": 3539
+    },
+    "created_at": "2026-05-16T11:10:11.980Z",
+    "updated_at": "2026-05-16T11:10:11.980Z"
+  },
+  {
+    "booking_id": "bk_1d82a867f18f4625",
+    "transaction_id": "txn_ec279b8272e84b79b179",
+    "user_id": "user_default",
+    "provider_id": "p_004",
+    "service_type": "tutor",
+    "location": "F-8",
+    "preferred_time": "tomorrow",
+    "status": "confirmed",
+    "pricing": {
+      "base_rate": 2500,
+      "travel_fee": 90,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1,
+      "surge_pricing": 500,
+      "total_pkr": 3608
+    },
+    "created_at": "2026-05-16T11:11:51.525Z",
+    "updated_at": "2026-05-16T11:11:51.525Z"
+  },
+  {
+    "booking_id": "bk_d19246b5b5ba4fbe",
+    "transaction_id": "txn_e086560d810042248e0a",
+    "user_id": "user_default",
+    "provider_id": "p_037",
+    "service_type": "ac_technician",
+    "location": "G-13",
+    "preferred_time": "tomorrow_morning",
+    "status": "confirmed",
+    "pricing": {
+      "base_rate": 1700,
+      "travel_fee": 90,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1.3,
+      "surge_pricing": 340,
+      "total_pkr": 3132
+    },
+    "created_at": "2026-05-16T11:13:47.687Z",
+    "updated_at": "2026-05-16T11:13:47.687Z"
+  },
+  {
+    "booking_id": "bk_5e670c9434f946ba",
+    "transaction_id": "txn_f61d9d7de47d45b794c3",
+    "user_id": "user_default",
+    "provider_id": "p_037",
+    "service_type": "ac_technician",
+    "location": "G-13",
+    "preferred_time": "tomorrow_morning",
+    "status": "confirmed",
+    "pricing": {
+      "base_rate": 1700,
+      "travel_fee": 90,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1.3,
+      "surge_pricing": 340,
+      "total_pkr": 3132
+    },
+    "created_at": "2026-05-16T11:36:43.239Z",
+    "updated_at": "2026-05-16T11:36:43.239Z"
+  },
+  {
+    "booking_id": "bk_ece1b45aa8d848f6",
+    "transaction_id": "txn_685077e2262849c68e7c",
+    "user_id": "user_default",
+    "provider_id": "p_042",
+    "service_type": "mechanic",
+    "location": "Islamabad",
+    "preferred_time": "evening",
+    "status": "confirmed",
+    "pricing": {
+      "base_rate": 1900,
+      "travel_fee": 125,
+      "urgency_multiplier": 1,
+      "complexity_adjustment": 1.3,
+      "surge_pricing": 380,
+      "total_pkr": 3013
+    },
+    "created_at": "2026-05-16T17:42:52.712Z",
+    "updated_at": "2026-05-16T17:42:52.712Z"
+  },
+  {
+    "booking_id": "bk_d42aeb090f294c91",
+    "transaction_id": "txn_9d976c69bc73484c8172",
+    "user_id": "user_default",
+    "provider_id": "p_002",
+    "service_type": "plumber",
+    "location": "Bahria Town",
+    "preferred_time": "night",
+    "status": "confirmed",
+    "pricing": {
+      "base_rate": 1200,
+      "travel_fee": 155,
+      "urgency_multiplier": 1,
+      "complexity_adjustment": 1,
+      "surge_pricing": 240,
+      "total_pkr": 1595
+    },
+    "created_at": "2026-05-17T01:13:51.042Z",
+    "updated_at": "2026-05-17T01:13:51.042Z"
+  },
+  {
+    "booking_id": "bk_4f204a4cfee743cd",
+    "transaction_id": "txn_4bdb1969810d4e1f88bf",
+    "user_id": "user_default",
+    "provider_id": "p_037",
+    "service_type": "ac_technician",
+    "location": "G-13",
+    "preferred_time": "tomorrow_morning",
+    "status": "confirmed",
+    "pricing": {
+      "base_rate": 1700,
+      "travel_fee": 90,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1.3,
+      "surge_pricing": 340,
+      "total_pkr": 3132
+    },
+    "created_at": "2026-05-18T17:10:00.834Z",
+    "updated_at": "2026-05-18T17:10:00.834Z"
+  },
+  {
+    "booking_id": "bk_afd264a8d92a491c",
+    "transaction_id": "txn_d9369da1faee4e8b85e8",
+    "user_id": "user_default",
+    "provider_id": "p_037",
+    "service_type": "ac_technician",
+    "location": "G-13",
+    "preferred_time": "tomorrow_morning",
+    "status": "pending",
+    "pricing": {
+      "base_rate": 1700,
+      "travel_fee": 90,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1.3,
+      "surge_pricing": 340,
+      "total_pkr": 3132
+    },
+    "created_at": "2026-05-19T12:24:21.165Z",
+    "updated_at": "2026-05-19T12:24:21.165Z"
+  },
+  {
+    "booking_id": "bk_b9a7936d43864c0b",
+    "transaction_id": "txn_b5791301616e4dc7ba4e",
+    "user_id": "user_1779125716873",
+    "provider_id": "p_045",
+    "service_type": "plumber",
+    "location": "Islamabad",
+    "preferred_time": "tomorrow",
+    "status": "pending",
+    "pricing": {
+      "base_rate": 1500,
+      "travel_fee": 60,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1,
+      "surge_pricing": 300,
+      "total_pkr": 2172
+    },
+    "created_at": "2026-05-19T12:44:57.736Z",
+    "updated_at": "2026-05-19T12:44:57.736Z"
+  },
+  {
+    "booking_id": "bk_9566f9cc7dd24ae1",
+    "transaction_id": "txn_1658b85add5346ea8c17",
+    "user_id": "user_1779125716873",
+    "provider_id": "p_037",
+    "service_type": "ac_technician",
+    "location": "G-13",
+    "preferred_time": "morning",
+    "status": "pending",
+    "pricing": {
+      "base_rate": 1700,
+      "travel_fee": 400,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1.3,
+      "surge_pricing": 340,
+      "total_pkr": 3616
+    },
+    "created_at": "2026-05-19T12:56:56.496Z",
+    "updated_at": "2026-05-19T12:56:56.496Z"
+  },
+  {
+    "booking_id": "bk_31c571b63c3f451c",
+    "transaction_id": "txn_ea36949829bf4de7a93f",
+    "user_id": "user_1779125716873",
+    "provider_id": "p_037",
+    "service_type": "ac_technician",
+    "location": "G-13",
+    "preferred_time": "morning",
+    "status": "pending",
+    "pricing": {
+      "base_rate": 1700,
+      "travel_fee": 500,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1.3,
+      "surge_pricing": 340,
+      "total_pkr": 3772
+    },
+    "created_at": "2026-05-19T13:17:00.647Z",
+    "updated_at": "2026-05-19T13:17:00.647Z"
+  },
+  {
+    "booking_id": "bk_a1d83e3f18f04ee9",
+    "transaction_id": "txn_34a1df8339c64f0db1ea",
+    "user_id": "user_1779125716873",
+    "provider_id": "p_037",
+    "service_type": "ac_technician",
+    "location": "G-13",
+    "preferred_time": "morning",
+    "status": "pending",
+    "pricing": {
+      "base_rate": 1700,
+      "travel_fee": 50,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1.3,
+      "surge_pricing": 340,
+      "total_pkr": 3070
+    },
+    "created_at": "2026-05-19T13:24:38.521Z",
+    "updated_at": "2026-05-19T13:24:38.521Z"
+  },
+  {
+    "booking_id": "bk_6013f43bd5024794",
+    "transaction_id": "txn_6df1e7c9a8374c94ad43",
+    "user_id": "user_1779125716873",
+    "provider_id": "p_037",
+    "service_type": "ac_technician",
+    "location": "G-13",
+    "preferred_time": "morning",
+    "status": "pending",
+    "pricing": {
+      "base_rate": 1700,
+      "travel_fee": 700,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1.3,
+      "surge_pricing": 340,
+      "total_pkr": 4084
+    },
+    "created_at": "2026-05-19T13:26:23.055Z",
+    "updated_at": "2026-05-19T13:26:23.055Z"
+  },
+  {
+    "booking_id": "bk_dcc39550cc9b441d",
+    "transaction_id": "txn_0606cd0e6e184840a790",
+    "user_id": "user_1779125716873",
+    "provider_id": "p_037",
+    "service_type": "ac_technician",
+    "location": "G-13",
+    "preferred_time": "morning",
+    "status": "pending",
+    "pricing": {
+      "base_rate": 1700,
+      "travel_fee": 150,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1.3,
+      "surge_pricing": 340,
+      "total_pkr": 3226
+    },
+    "created_at": "2026-05-19T13:26:52.017Z",
+    "updated_at": "2026-05-19T13:26:52.017Z"
+  },
+  {
+    "booking_id": "bk_48a69a79fa8a49c1",
+    "transaction_id": "txn_8db0dd9279234719b38f",
+    "user_id": "user_1779125716873",
+    "provider_id": "p_018",
+    "service_type": "tutor",
+    "location": "islamabad",
+    "preferred_time": "not_specified",
+    "status": "pending",
+    "pricing": {
+      "base_rate": 2800,
+      "travel_fee": 350,
+      "urgency_multiplier": 1,
+      "complexity_adjustment": 1,
+      "surge_pricing": 560,
+      "total_pkr": 3710
+    },
+    "created_at": "2026-05-19T13:37:11.587Z",
+    "updated_at": "2026-05-19T13:37:11.587Z"
+  },
+  {
+    "booking_id": "bk_1779203061615723",
+    "transaction_id": "txn_1779203061615",
+    "user_id": "user_default",
+    "provider_id": "user_1770000000023",
+    "service_type": "Electrician",
+    "location": "Current Location",
+    "preferred_time": "09:00",
+    "status": "confirmed",
+    "pricing": {
+      "base_rate": 1200,
+      "travel_fee": 0,
+      "urgency_multiplier": 1,
+      "complexity_adjustment": 0,
+      "surge_pricing": 0,
+      "total_pkr": 1200
+    },
+    "created_at": "2026-05-19T15:04:21.615Z",
+    "updated_at": "2026-05-19T15:04:21.615Z"
+  },
+  {
+    "booking_id": "bk_1779203404840503",
+    "transaction_id": "txn_1779203404840",
+    "user_id": "user_default",
+    "provider_id": "user_1770000000022",
+    "service_type": "tutor",
+    "location": "Current Location",
+    "preferred_time": "09:00",
+    "status": "completed",
+    "pricing": {
+      "base_rate": 1500,
+      "travel_fee": 0,
+      "urgency_multiplier": 1,
+      "complexity_adjustment": 0,
+      "surge_pricing": 0,
+      "total_pkr": 1500
+    },
+    "created_at": "2026-05-19T15:10:04.840Z",
+    "updated_at": "2026-05-19T18:03:17.929Z"
+  },
+  {
+    "booking_id": "bk_0858523f6cec444d",
+    "transaction_id": "txn_67108a63fc114631aee5",
+    "user_id": "user_default",
+    "provider_id": "user_1770000000022",
+    "service_type": "tutor",
+    "location": "F-8",
+    "preferred_time": "afternoon",
+    "status": "confirmed",
+    "pricing": {
+      "base_rate": 1500,
+      "travel_fee": 350,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1,
+      "surge_pricing": 300,
+      "total_pkr": 2520
+    },
+    "created_at": "2026-05-19T15:10:58.872Z",
+    "updated_at": "2026-05-19T15:19:20.723Z"
+  },
+  {
+    "booking_id": "bk_1779203930979976",
+    "transaction_id": "txn_1779203930979",
+    "user_id": "user_default",
+    "provider_id": "user_1770000000022",
+    "service_type": "tutor",
+    "location": "Current Location",
+    "preferred_time": "09:00",
+    "status": "confirmed",
+    "pricing": {
+      "base_rate": 1500,
+      "travel_fee": 0,
+      "urgency_multiplier": 1,
+      "complexity_adjustment": 0,
+      "surge_pricing": 0,
+      "total_pkr": 1500
+    },
+    "created_at": "2026-05-19T15:18:50.979Z",
+    "updated_at": "2026-05-19T15:18:50.979Z"
+  },
+  {
+    "booking_id": "bk_1779204056881825",
+    "transaction_id": "txn_1779204056881",
+    "user_id": "user_1770000000002",
+    "provider_id": "user_1770000000022",
+    "service_type": "tutor",
+    "location": "Current Location",
+    "preferred_time": "14:00",
+    "status": "cancelled",
+    "pricing": {
+      "base_rate": 1500,
+      "travel_fee": 0,
+      "urgency_multiplier": 1,
+      "complexity_adjustment": 0,
+      "surge_pricing": 0,
+      "total_pkr": 1500
+    },
+    "created_at": "2026-05-19T15:20:56.881Z",
+    "updated_at": "2026-05-19T16:43:40.751Z"
+  },
+  {
+    "booking_id": "bk_1779204454132958",
+    "transaction_id": "txn_1779204454132",
+    "user_id": "user_1770000000002",
+    "provider_id": "user_1770000000022",
+    "service_type": "tutor",
+    "location": "Current Location",
+    "preferred_time": "09:00",
+    "status": "completed",
+    "pricing": {
+      "base_rate": 1500,
+      "travel_fee": 0,
+      "urgency_multiplier": 1,
+      "complexity_adjustment": 0,
+      "surge_pricing": 0,
+      "total_pkr": 1500
+    },
+    "created_at": "2026-05-19T15:27:34.132Z",
+    "updated_at": "2026-05-19T18:05:50.536Z"
+  },
+  {
+    "booking_id": "bk_1779204744714167",
+    "transaction_id": "txn_1779204744714",
+    "user_id": "user_1770000000002",
+    "provider_id": "user_1770000000022",
+    "service_type": "tutor",
+    "location": "Current Location",
+    "preferred_time": "14:00",
+    "status": "confirmed",
+    "pricing": {
+      "base_rate": 1500,
+      "travel_fee": 0,
+      "urgency_multiplier": 1,
+      "complexity_adjustment": 0,
+      "surge_pricing": 0,
+      "total_pkr": 1500
+    },
+    "created_at": "2026-05-19T15:32:24.714Z",
+    "updated_at": "2026-05-19T15:32:39.181Z"
+  },
+  {
+    "booking_id": "bk_1779208381308401",
+    "transaction_id": "txn_1779208381308",
+    "user_id": "user_1770000000002",
+    "provider_id": "user_1770000000022",
+    "service_type": "tutor",
+    "location": "Current Location",
+    "preferred_time": "17:00",
+    "status": "rejected",
+    "pricing": {
+      "base_rate": 1500,
+      "travel_fee": 0,
+      "urgency_multiplier": 1,
+      "complexity_adjustment": 0,
+      "surge_pricing": 0,
+      "total_pkr": 1500
+    },
+    "created_at": "2026-05-19T16:33:01.308Z",
+    "updated_at": "2026-05-19T16:33:13.377Z"
+  },
+  {
+    "booking_id": "bk_1779212374916580",
+    "transaction_id": "txn_1779212374916",
+    "user_id": "user_1770000000002",
+    "provider_id": "user_1770000000022",
+    "service_type": "tutor",
+    "location": "Street No. 3, Islamabad",
+    "preferred_time": "15:00",
+    "status": "completed",
+    "pricing": {
+      "base_rate": 1500,
+      "travel_fee": 0,
+      "urgency_multiplier": 1,
+      "complexity_adjustment": 0,
+      "surge_pricing": 0,
+      "total_pkr": 1500
+    },
+    "created_at": "2026-05-19T17:39:34.916Z",
+    "updated_at": "2026-05-19T18:05:36.526Z"
+  },
+  {
+    "booking_id": "bk_305acf075a5a4783",
+    "transaction_id": "txn_fd48b91c9f8d4a85acfc",
+    "user_id": "user_1770000000002",
+    "provider_id": "user_1770000000022",
+    "service_type": "tutor",
+    "location": "F7",
+    "preferred_time": "not_specified",
+    "status": "completed",
+    "pricing": {
+      "base_rate": 1500,
+      "travel_fee": 1317,
+      "urgency_multiplier": 1.2,
+      "complexity_adjustment": 1,
+      "surge_pricing": 300,
+      "total_pkr": 2817,
+      "real_distance_km": 26.334,
+      "distance_fee": 1317,
+      "total_amount": 2817
+    },
+    "created_at": "2026-05-19T17:49:39.162Z",
+    "updated_at": "2026-05-19T18:03:27.051Z"
+  }
+]

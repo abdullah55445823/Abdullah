@@ -1,0 +1,470 @@
+[
+  {
+    "notification_id": "notif_4d217a6f351840",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your electrician booking at Islamabad for PKR 2210 is confirmed.",
+    "data": {
+      "booking_id": "bk_3d60ba1e7cb74153"
+    },
+    "read": true,
+    "created_at": "2026-05-16T10:02:30.168Z"
+  },
+  {
+    "notification_id": "notif_b6eab94e60c34e",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your ac_technician booking at G-13 for PKR 3132 is confirmed.",
+    "data": {
+      "booking_id": "bk_2a8b3b478ee34499"
+    },
+    "read": true,
+    "created_at": "2026-05-16T11:08:54.889Z"
+  },
+  {
+    "notification_id": "notif_3418678285bf4b",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your mechanic booking at Islamabad for PKR 3539 is confirmed.",
+    "data": {
+      "booking_id": "bk_63b296e72bfe4509"
+    },
+    "read": true,
+    "created_at": "2026-05-16T11:10:11.980Z"
+  },
+  {
+    "notification_id": "notif_bbaa64e5e9bb42",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your tutor booking at F-8 for PKR 3608 is confirmed.",
+    "data": {
+      "booking_id": "bk_1d82a867f18f4625"
+    },
+    "read": true,
+    "created_at": "2026-05-16T11:11:51.525Z"
+  },
+  {
+    "notification_id": "notif_fe1938348bf64c",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your ac_technician booking at G-13 for PKR 3132 is confirmed.",
+    "data": {
+      "booking_id": "bk_d19246b5b5ba4fbe"
+    },
+    "read": true,
+    "created_at": "2026-05-16T11:13:47.687Z"
+  },
+  {
+    "notification_id": "notif_d8485730690c47",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your ac_technician booking at G-13 for PKR 3132 is confirmed.",
+    "data": {
+      "booking_id": "bk_5e670c9434f946ba"
+    },
+    "read": true,
+    "created_at": "2026-05-16T11:36:43.239Z"
+  },
+  {
+    "notification_id": "notif_208431e441bf4b",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your mechanic booking at Islamabad for PKR 3013 is confirmed.",
+    "data": {
+      "booking_id": "bk_ece1b45aa8d848f6"
+    },
+    "read": true,
+    "created_at": "2026-05-16T17:42:52.712Z"
+  },
+  {
+    "notification_id": "notif_d713c7f1965e40",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your plumber booking at Bahria Town for PKR 1595 is confirmed.",
+    "data": {
+      "booking_id": "bk_d42aeb090f294c91"
+    },
+    "read": true,
+    "created_at": "2026-05-17T01:13:51.042Z"
+  },
+  {
+    "notification_id": "notif_d15306c1f02741",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your ac_technician booking at G-13 for PKR 3132 is confirmed.",
+    "data": {
+      "booking_id": "bk_4f204a4cfee743cd"
+    },
+    "read": true,
+    "created_at": "2026-05-18T17:10:00.834Z"
+  },
+  {
+    "notification_id": "notif_64f97b2738c345",
+    "user_id": "p_037",
+    "type": "booking_confirmed",
+    "title": "New Booking Request",
+    "body": "New request: ac_technician at G-13 for PKR 3132. Please accept or reject.",
+    "data": {
+      "booking_id": "bk_afd264a8d92a491c"
+    },
+    "read": true,
+    "created_at": "2026-05-19T12:24:21.165Z"
+  },
+  {
+    "notification_id": "notif_924d67aa41fb41",
+    "user_id": "p_045",
+    "type": "booking_confirmed",
+    "title": "New Booking Request",
+    "body": "New request: plumber at Islamabad for PKR 2172. Please accept or reject.",
+    "data": {
+      "booking_id": "bk_b9a7936d43864c0b"
+    },
+    "read": true,
+    "created_at": "2026-05-19T12:44:57.736Z"
+  },
+  {
+    "notification_id": "notif_abd89fa2c2c745",
+    "user_id": "p_037",
+    "type": "booking_confirmed",
+    "title": "New Booking Request",
+    "body": "New request: ac_technician at G-13 for PKR 3616. Please accept or reject.",
+    "data": {
+      "booking_id": "bk_9566f9cc7dd24ae1"
+    },
+    "read": true,
+    "created_at": "2026-05-19T12:56:56.496Z"
+  },
+  {
+    "notification_id": "notif_4131b3e2bbd14e",
+    "user_id": "p_037",
+    "type": "booking_confirmed",
+    "title": "New Booking Request",
+    "body": "New request: ac_technician at G-13 for PKR 3772. Please accept or reject.",
+    "data": {
+      "booking_id": "bk_31c571b63c3f451c"
+    },
+    "read": true,
+    "created_at": "2026-05-19T13:17:00.647Z"
+  },
+  {
+    "notification_id": "notif_e8fd4d3d57c446",
+    "user_id": "p_037",
+    "type": "booking_confirmed",
+    "title": "New Booking Request",
+    "body": "New request: ac_technician at G-13 for PKR 3070. Please accept or reject.",
+    "data": {
+      "booking_id": "bk_a1d83e3f18f04ee9"
+    },
+    "read": true,
+    "created_at": "2026-05-19T13:24:38.521Z"
+  },
+  {
+    "notification_id": "notif_9876b032a36849",
+    "user_id": "p_037",
+    "type": "booking_confirmed",
+    "title": "New Booking Request",
+    "body": "New request: ac_technician at G-13 for PKR 4084. Please accept or reject.",
+    "data": {
+      "booking_id": "bk_6013f43bd5024794"
+    },
+    "read": true,
+    "created_at": "2026-05-19T13:26:23.055Z"
+  },
+  {
+    "notification_id": "notif_3584f29048e540",
+    "user_id": "p_037",
+    "type": "booking_confirmed",
+    "title": "New Booking Request",
+    "body": "New request: ac_technician at G-13 for PKR 3226. Please accept or reject.",
+    "data": {
+      "booking_id": "bk_dcc39550cc9b441d"
+    },
+    "read": true,
+    "created_at": "2026-05-19T13:26:52.017Z"
+  },
+  {
+    "notification_id": "notif_de410c4d6b644b",
+    "user_id": "p_018",
+    "type": "booking_confirmed",
+    "title": "New Booking Request",
+    "body": "New request: tutor at islamabad for PKR 3710. Please accept or reject.",
+    "data": {
+      "booking_id": "bk_48a69a79fa8a49c1"
+    },
+    "read": false,
+    "created_at": "2026-05-19T13:37:11.587Z"
+  },
+  {
+    "notification_id": "notif_1779203061615",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your manual booking for Kamran at 09:00 is confirmed.",
+    "data": {
+      "booking_id": "bk_1779203061615723"
+    },
+    "read": false,
+    "created_at": "2026-05-19T15:04:21.615Z"
+  },
+  {
+    "notification_id": "notif_1779203404841",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your manual booking for Aaa at 09:00 is confirmed.",
+    "data": {
+      "booking_id": "bk_1779203404840503"
+    },
+    "read": false,
+    "created_at": "2026-05-19T15:10:04.840Z"
+  },
+  {
+    "notification_id": "notif_f286ed5ff57942",
+    "user_id": "user_1770000000022",
+    "type": "booking_confirmed",
+    "title": "New Booking Request",
+    "body": "New request: tutor at F-8 for PKR 2520. Please accept or reject.",
+    "data": {
+      "booking_id": "bk_0858523f6cec444d"
+    },
+    "read": true,
+    "created_at": "2026-05-19T15:10:58.872Z"
+  },
+  {
+    "notification_id": "notif_1779203930979",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your manual booking for Aaa at 09:00 is confirmed.",
+    "data": {
+      "booking_id": "bk_1779203930979976"
+    },
+    "read": false,
+    "created_at": "2026-05-19T15:18:50.979Z"
+  },
+  {
+    "notification_id": "notif_1779203960724",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Accepted!",
+    "body": "Your booking for tutor has been accepted by the provider.",
+    "data": {
+      "booking_id": "bk_0858523f6cec444d"
+    },
+    "read": false,
+    "created_at": "2026-05-19T15:19:20.724Z"
+  },
+  {
+    "notification_id": "notif_1779204056881",
+    "user_id": "user_1770000000002",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your manual booking for Awanish at 14:00 is confirmed.",
+    "data": {
+      "booking_id": "bk_1779204056881825"
+    },
+    "read": true,
+    "created_at": "2026-05-19T15:20:56.881Z"
+  },
+  {
+    "notification_id": "notif_1779204454132",
+    "user_id": "user_1770000000002",
+    "type": "booking_confirmed",
+    "title": "Booking Confirmed!",
+    "body": "Your manual booking for Awanish at 09:00 is confirmed.",
+    "data": {
+      "booking_id": "bk_1779204454132958"
+    },
+    "read": true,
+    "created_at": "2026-05-19T15:27:34.132Z"
+  },
+  {
+    "notification_id": "notif_1779204744714_p",
+    "user_id": "user_1770000000022",
+    "type": "booking_confirmed",
+    "title": "New Booking Request 📅",
+    "body": "You have a new manual booking request for tutor at 14:00.",
+    "data": {
+      "booking_id": "bk_1779204744714167"
+    },
+    "read": true,
+    "created_at": "2026-05-19T15:32:24.714Z"
+  },
+  {
+    "notification_id": "notif_1779204744715_c",
+    "user_id": "user_1770000000002",
+    "type": "booking_confirmed",
+    "title": "Booking Request Sent",
+    "body": "Your booking request for Awanish at 14:00 has been sent and is awaiting confirmation.",
+    "data": {
+      "booking_id": "bk_1779204744714167"
+    },
+    "read": true,
+    "created_at": "2026-05-19T15:32:24.714Z"
+  },
+  {
+    "notification_id": "notif_1779204759181",
+    "user_id": "user_1770000000002",
+    "type": "booking_confirmed",
+    "title": "Booking Accepted!",
+    "body": "Your booking for tutor has been accepted by the provider.",
+    "data": {
+      "booking_id": "bk_1779204744714167"
+    },
+    "read": true,
+    "created_at": "2026-05-19T15:32:39.181Z"
+  },
+  {
+    "notification_id": "notif_1779208381309_p",
+    "user_id": "user_1770000000022",
+    "type": "booking_confirmed",
+    "title": "New Booking Request 📅",
+    "body": "You have a new manual booking request for tutor at 17:00.",
+    "data": {
+      "booking_id": "bk_1779208381308401"
+    },
+    "read": true,
+    "created_at": "2026-05-19T16:33:01.308Z"
+  },
+  {
+    "notification_id": "notif_1779208381309_c",
+    "user_id": "user_1770000000002",
+    "type": "booking_confirmed",
+    "title": "Booking Request Sent",
+    "body": "Your booking request for Awanish at 17:00 has been sent and is awaiting confirmation.",
+    "data": {
+      "booking_id": "bk_1779208381308401"
+    },
+    "read": true,
+    "created_at": "2026-05-19T16:33:01.308Z"
+  },
+  {
+    "notification_id": "notif_1779208393378",
+    "user_id": "user_1770000000002",
+    "type": "booking_confirmed",
+    "title": "Booking Declined",
+    "body": "Your booking for tutor has been declined. Please try another provider.",
+    "data": {
+      "booking_id": "bk_1779208381308401"
+    },
+    "read": false,
+    "created_at": "2026-05-19T16:33:13.378Z"
+  },
+  {
+    "notification_id": "notif_1779212374917_p",
+    "user_id": "user_1770000000022",
+    "type": "booking_confirmed",
+    "title": "New Booking Request 📅",
+    "body": "You have a new manual booking request for tutor at 15:00.",
+    "data": {
+      "booking_id": "bk_1779212374916580"
+    },
+    "read": true,
+    "created_at": "2026-05-19T17:39:34.916Z"
+  },
+  {
+    "notification_id": "notif_1779212374918_c",
+    "user_id": "user_1770000000002",
+    "type": "booking_confirmed",
+    "title": "Booking Request Sent",
+    "body": "Your booking request for Awanish at 15:00 has been sent and is awaiting confirmation.",
+    "data": {
+      "booking_id": "bk_1779212374916580"
+    },
+    "read": false,
+    "created_at": "2026-05-19T17:39:34.916Z"
+  },
+  {
+    "notification_id": "notif_1779212397799",
+    "user_id": "user_1770000000002",
+    "type": "booking_confirmed",
+    "title": "Booking Accepted!",
+    "body": "Your booking for tutor has been accepted by the provider.",
+    "data": {
+      "booking_id": "bk_1779212374916580"
+    },
+    "read": false,
+    "created_at": "2026-05-19T17:39:57.799Z"
+  },
+  {
+    "notification_id": "notif_c7dfd66363c041",
+    "user_id": "user_1770000000022",
+    "type": "booking_confirmed",
+    "title": "New Booking Request",
+    "body": "New request: tutor at F7 for PKR 2817. Please accept or reject.",
+    "data": {
+      "booking_id": "bk_305acf075a5a4783"
+    },
+    "read": true,
+    "created_at": "2026-05-19T17:49:39.162Z"
+  },
+  {
+    "notification_id": "notif_1779213031683",
+    "user_id": "user_1770000000002",
+    "type": "booking_confirmed",
+    "title": "Booking Accepted!",
+    "body": "Your booking for tutor has been accepted by the provider.",
+    "data": {
+      "booking_id": "bk_305acf075a5a4783"
+    },
+    "read": false,
+    "created_at": "2026-05-19T17:50:31.683Z"
+  },
+  {
+    "notification_id": "notif_1779213797929",
+    "user_id": "user_default",
+    "type": "booking_confirmed",
+    "title": "Booking Declined",
+    "body": "Your booking for tutor has been declined. Please try another provider.",
+    "data": {
+      "booking_id": "bk_1779203404840503"
+    },
+    "read": false,
+    "created_at": "2026-05-19T18:03:17.929Z"
+  },
+  {
+    "notification_id": "notif_1779213807051",
+    "user_id": "user_1770000000002",
+    "type": "booking_confirmed",
+    "title": "Booking Declined",
+    "body": "Your booking for tutor has been declined. Please try another provider.",
+    "data": {
+      "booking_id": "bk_305acf075a5a4783"
+    },
+    "read": false,
+    "created_at": "2026-05-19T18:03:27.051Z"
+  },
+  {
+    "notification_id": "notif_1779213936527",
+    "user_id": "user_1770000000002",
+    "type": "booking_confirmed",
+    "title": "Booking Declined",
+    "body": "Your booking for tutor has been declined. Please try another provider.",
+    "data": {
+      "booking_id": "bk_1779212374916580"
+    },
+    "read": false,
+    "created_at": "2026-05-19T18:05:36.527Z"
+  },
+  {
+    "notification_id": "notif_1779213950537",
+    "user_id": "user_1770000000002",
+    "type": "booking_confirmed",
+    "title": "Booking Declined",
+    "body": "Your booking for tutor has been declined. Please try another provider.",
+    "data": {
+      "booking_id": "bk_1779204454132958"
+    },
+    "read": false,
+    "created_at": "2026-05-19T18:05:50.537Z"
+  }
+]
